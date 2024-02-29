@@ -1,6 +1,6 @@
 # Hello, I'm Bartłomiej Juszczyk 👋
 
-I'm a passionate software engineer with a keen interest in data structures and back-end development. Currently I am a 3rd-year student at West Pomeranian University of Technology. Here's a brief overview of some of the projects I've been working on:
+I'm a passionate software engineer with a keen interest in data structures and back-end development. Currently I'm a 3rd-year student at West Pomeranian University of Technology. Here's a brief overview of some of the projects I've been working on:
 
 ## 🚀 Projects
 
@@ -35,5 +35,5 @@ This is a project I worked on during my fourth semester at ZUT. It's a comprehen
 - Django
 - Back-End Development
 - Data Structures
-- English C1
-and more...
+- English C1       
+- and more... 💫
