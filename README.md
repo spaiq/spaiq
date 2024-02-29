@@ -36,3 +36,4 @@ This is a project I worked on during my fourth semester at ZUT. It's a comprehen
 - Back-End Development
 - Data Structures
 - English C1
+and more...
