@@ -1,6 +1,8 @@
 # Hello, I'm Bartłomiej Juszczyk 👋
 
-I'm a passionate software engineer with a keen interest in back-end development. Currently I'm a 3rd-year student at West Pomeranian University of Technology. Here's a brief overview of some of the projects I've been working on:
+I'm a passionate software engineer with a keen interest in back-end development. I have finished a Computer Science bachelor's degree at West Pomeranian University of Technology and currently I am a proud Computer Science Master student at IT University of Copenhagen. Apart from my educational background I do already hold 2 years of experience as a Java Developer in Asseco Data Systems working on a large-scale product.
+
+Here's a brief overview of some of the projects I've been working on:
 
 ## 🚀 Projects
 
